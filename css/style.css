@@ -310,17 +310,16 @@ font-size: 16px;
     align-items: center;
     flex-direction: column;
     transition: all 0.8s;
-    width: 263px;
-    height: 394px;
+    background-color: #fff;
+    width: 290px;
+    height:450px;
     row-gap: 15px;
+    padding-top: 15px;
+    border-radius: 7px;
 }
 
 .masters__item:hover{
     background-color: #2e2e2e;
-    width: 290px;
-    height:450px;
-    padding-top: 15px;
-    border-radius: 7px;
 }
 
 .masters__info{
